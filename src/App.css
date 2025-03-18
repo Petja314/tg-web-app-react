@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body{
+    background : var(--tg-theme-bg-color);
+    color : var(--tg-theme-text-color);
+}
