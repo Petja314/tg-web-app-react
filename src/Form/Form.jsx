@@ -20,7 +20,7 @@ const Form = ({ className }) => {
     } else {
       tg.MainButton.show();
     }
-  }, [country, street]);
+  }, [country, street, tg.MainButton]);
 
   return (
     <div className={className}>
