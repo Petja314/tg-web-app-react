@@ -10,7 +10,6 @@ function App() {
   return (
     <div className="App">
       <h1>hello world!</h1>
-      <button onClick={onClose}>Закрыть</button>
     </div>
   );
 }
